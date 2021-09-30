@@ -5,17 +5,13 @@ h2{
 #status_1, #status_2{
   border: 1px solid bisque;
   background:bisque ;
-  padding: 1px 1px 1px 1px;
 }
 
-#status_1{
-  position: absolute;
-  left: 150px;
-  top: 320px;
-}
+
 
 
 .line{
+  display: inline-block;
   position: absolute;
   top: 20px;
   left: 0;
@@ -27,7 +23,7 @@ h2{
 .line2{
   position: absolute;
   top: 0;
-  left: 682px;
+  left: 652px;
   bottom: 700px;
   border-left: 8px solid #bebebe;
   border-radius: 10px;
