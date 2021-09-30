@@ -1,0 +1,15 @@
+button{
+  border: 1px solid #034971;
+  position: absolute;
+  left: 97px;
+  background: none;
+  border-radius: 30px;
+  color: #034971;
+  padding: 8px 20px 8px 20px;
+  box-sizing: border-box;
+}
+
+mat-icon{
+  font-size: 13px;
+}
+

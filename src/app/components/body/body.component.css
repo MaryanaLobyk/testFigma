@@ -1,0 +1,51 @@
+h2{
+  color: #034971;
+}
+
+#status_1, #status_2{
+  border: 1px solid bisque;
+  background:bisque ;
+  padding: 1px 1px 1px 1px;
+}
+
+#status_1{
+  position: absolute;
+  left: 150px;
+  top: 320px;
+}
+
+
+.line{
+  position: absolute;
+  top: 20px;
+  left: 0;
+  bottom: 20px;
+  border-left: 1px solid #bebebe;
+  /*color: #ffffff;*/
+}
+
+.line2{
+  position: absolute;
+  top: 0;
+  left: 682px;
+  bottom: 700px;
+  border-left: 8px solid #bebebe;
+  border-radius: 10px;
+  /*color: #ffffff;*/
+}
+
+button{
+  border: none;
+  border-radius: 30px;
+  background: #034971;
+  color: white;
+  padding: 7px;
+}
+
+.main{
+  /*background: rgba(229, 247, 255, 0.98);*/
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  padding: 25px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);  /*margin: 0 0 0 0;*/
+}
